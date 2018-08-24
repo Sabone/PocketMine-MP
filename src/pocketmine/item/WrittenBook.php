@@ -98,7 +98,7 @@ class WrittenBook extends WritableBook{
 	}
 
 	/**
-	 * Sets the author of this book.
+	 * Sets the title of this book.
 	 *
 	 * @param string $title
 	 */
